@@ -1,4 +1,4 @@
-# Folkloric Rhapsody | Interactive Window
+# FOLKLORIC RHAPSODY | Interactive Window
 Folkloric Rhapsody explores the rich and diverse heritage of Bulgaria by showcasing its six folkloric regions through multiple visualizations and interactivity, blending traditional culture with modern technology. 
 
 AI assisted code-based analysis of dances and movements accompanied by audio synchronization and patterns representation, uncover hidden relations and interconnections by giving us a chance to view different technologically based interpretations and create combinations of audience-generated patterns. The various outputs including printed informative posters, explanatory and data storing website, and the newly produced patterns projected on authentic folklore costume create a fusion of traditional and contemporary produced folklore elements.
