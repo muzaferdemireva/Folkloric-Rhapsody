@@ -7,7 +7,7 @@ Preserving traditions, customs and history while offering an engaging, education
 
 For the visualizations and for representing each region video footage has been compiled where 5 are from the spectacle “The Bulgarian Folk Dance Masters” including stage performances of the best Bulgarian professional dance ensembles and 1 from “Adno Sa Ludo Izruka” performed by “Rhodope” Ensemble due to Rhodope region being more focused on singing performances and not participating in the first spectacle. Multiple camera angles and close ups allow for generating more pattern variations and analyse more the movements and positions of dancers.
 
-Each visualization is coded with p5.js and HTML and AI assitance by reading the videos pixels and creating grid of patterns which size increases wherever the pixels are the darkest. The colours are assigned by reading the pixels of the imported colourful patterns images. The visualization is also audio reactive and synchronized so the entire grid moves up and down as a unit based on the beat and according to the audio amplitude, higher the volume, bigger the motion.
+Each visualization is coded with p5.js, JavaScript, HTML and AI assitance by reading the videos pixels and creating grid of patterns which size increases wherever the pixels are the darkest. The colours are assigned by reading the pixels of the imported colourful patterns images. The visualization is also audio reactive and synchronized so the entire grid moves up and down as a unit based on the beat and according to the audio amplitude, higher the volume, bigger the motion.
 
 Find more about the project through the website Figma demo:
 https://www.figma.com/proto/iCLviXH16cuVLf4hrVCRtr/FOLKLORIC-RHAPSODY?node-id=0-1&t=OUAklnXIq0sqBZgf-1
